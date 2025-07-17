@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProjectICT602</string>
+    <string name="welcome_user">Welcome %1$s!</string>
+    <string name="label_full_name">Full Name: %1$s</string>
+    <string name="label_age">Age: %1$d years</string>
+    <string name="current_bmi_placeholder">Current BMI: -</string>
+    <string name="label_email">Email: %1$s</string>
+    <string name="bmi_current">Current BMI: %1$s</string>
+    <string name="weight_target">Target Weight: %1$s kg</string>
+    <string name="label_ideal_bmi">Ideal BMI: %1$.1f</string>
+    <string name="label_ideal_weight">Ideal Weight: %1$.1f kg</string>
+    <string name="bmi_ideal">Ideal BMI: %1$s</string>
+    <string name="weight_ideal">Ideal Weight: %1$s kg</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_default">BMI = -</string>
+    <string name="back_to_dashboard">Back to Dashboard</string>
+    <string name="bmi_result_format">BMI = %.1f</string>
+    <string name="gym_finder_title">Nearby Gyms and Fitness Centers</string>
+    <string name="progress_title">Your Progress</string>
+    <string name="scrollable_progress_list">Scrollable list of user progress photos</string>
+    <string name="profile_title">Profile</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+</resources>

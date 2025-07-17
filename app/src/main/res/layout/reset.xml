@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:id="@+id/reset_container"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <!-- App Logo -->
+        <ImageView
+            android:src="@drawable/app_icon1"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginBottom="32dp"
+            android:contentDescription="App Logo" />
+
+        <!-- Email Input -->
+        <EditText
+            android:id="@+id/reset_email"
+            android:hint="Enter your email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:background="@android:color/transparent"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#1976D2"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Reset Button -->
+        <Button
+            android:id="@+id/reset_button"
+            android:text="RESET PASSWORD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#1976D2"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Back to Login Button -->
+        <Button
+            android:id="@+id/back_to_login"
+            android:text="BACK TO LOGIN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#1976D2" />
+    </LinearLayout>
+</RelativeLayout>

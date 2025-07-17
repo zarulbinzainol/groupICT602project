@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme (Light Only) -->
+    <style name="Base.Theme.ProjectICT602" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Optional: Customize primary colors -->
+        <item name="colorPrimary">#4FC3F7</item>
+        <item name="colorPrimaryVariant">#1565C0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#1565C0</item>
+    </style>
+
+    <!-- Final Theme -->
+    <style name="Theme.ProjectICT602" parent="Base.Theme.ProjectICT602" />
+</resources>

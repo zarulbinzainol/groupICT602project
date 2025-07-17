@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "244441326880",
+    "firebase_url": "https://ict602project-fb860-default-rtdb.firebaseio.com",
+    "project_id": "ict602project-fb860",
+    "storage_bucket": "ict602project-fb860.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244441326880:android:e2e94aedc8d0cc98fea345",
+        "android_client_info": {
+          "package_name": "com.example.projectict602"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjq9K_YNFuPtDZzFP_w_C3oeLvGXAKsV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
