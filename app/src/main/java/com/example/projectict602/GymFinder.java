@@ -30,7 +30,7 @@ import java.util.*;
 public class GymFinder extends AppCompatActivity implements OnMapReadyCallback {
 
     private static final int LOCATION_PERMISSION_CODE = 100;
-    private static final String API_KEY = "AIzaSyDdE5EZD6P9SxJ-CGHKhGUvZsXPrDVOjiE";
+    private static final String API_KEY = "mykey";
 
     private GoogleMap mMap;
     private FusedLocationProviderClient fusedLocationClient;
